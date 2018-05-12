@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '9627'
     url: http://www.gutenberg.org/2009/agents/9627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45204#The-Putumayo-The-Devil-s-Paradise--13-the-Atrocities-Committed-upon-the-Indians-Therein
 gutenberg_issued: '2014-03-24'
 gutenberg_type: Text
 identifiers:
