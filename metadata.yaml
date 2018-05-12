@@ -1,0 +1,47 @@
+_repo: The-Putumayo-The-Devil-s-Paradise--13-the-Atrocities-Committed-upon-the-Indians-Therein_45204
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Casement, Roger
+    alias: Casement, Roger, Sir
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '5652'
+    url: http://www.gutenberg.org/2009/agents/5652
+    wikipedia: http://en.wikipedia.org/wiki/Roger_Casement
+covers:
+- cover_type: archival
+  image_path: 45204-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hardenburg, W. E. (Walter Ernest)
+    alias: Hardenburg, Walter Ernest
+    birthdate: 1886
+    deathdate: 1942
+    gutenberg_agent_id: '43147'
+    url: http://www.gutenberg.org/2009/agents/43147
+  editor:
+    agent_name: Enock, C. Reginald (Charles Reginald)
+    alias: Enock, Charles Reginald
+    birthdate: 1868
+    deathdate: 1970
+    gutenberg_agent_id: '9627'
+    url: http://www.gutenberg.org/2009/agents/9627
+description: ''
+gutenberg_issued: '2014-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peruvian Amazon Company'
+- !lcc 'F3401'
+- !lcsh 'Peru -- Description and travel'
+- !lcsh 'Putumayo River'
+- !lcsh 'Rubber industry and trade -- Peru'
+title: "The Putumayo, the Devil's Paradise\r\nTravels in the Peruvian Amazon Region\
+  \ and an Account of the Atrocities Committed upon the Indians Therein"
+url: http://www.gutenberg.org/ebooks/45204
